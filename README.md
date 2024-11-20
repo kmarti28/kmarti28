@@ -1,15 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/kmarti28/assets/blob/main/tryiton_dark-studio_1f02f064-9f6b-499b-98e6-e096912ea841.png" alt="Kennedy Martin" width="150" style="border-radius: 50%;">
-    </td>
-    <td>
-      <h1 align="left">Hi 👋, I'm Kennedy Martin!</h1>
-      <h3 align="left">I am a passionate cybersecurity student eager to contribute to the industry and tackle emerging threats.</h3>
-      <p>📫 How to reach me: <strong>martink6@vcu.edu</strong></p>
-    </td>
-  </tr>
-</table>
+<h1 align="left">Hi 👋, I'm Kennedy Martin!</h1>
+<h3 align="left">I am a passionate cybersecurity student eager to contribute to the industry and tackle emerging threats.</h3>
+<p>📫 How to reach me: <strong>martink6@vcu.edu</strong></p>
 
 - 🌱 I’m currently learning **Memory and Malware Forensics, Databases, etc.**
   
